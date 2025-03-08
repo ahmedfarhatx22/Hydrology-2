@@ -1,4 +1,4 @@
-# Exercises TeachBooks workflow
+# Exercises
 
 > This page reuses CC BY 4.0 licensed content from {cite:t}`template`. {fa}`quote-left`{ref}`Find out more here.<external_resources>`
 
